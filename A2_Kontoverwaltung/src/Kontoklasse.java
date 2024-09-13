@@ -34,16 +34,15 @@ public class Kontoklasse {
     }
 
     public void kontoauszug() {
+        System.out.println("================================");
         System.out.println("Kontoinhaber: " + kontoinhaber);
         System.out.println("Bankleitzahl: " + bankleitzahl);
         System.out.println("Kontonummer: " + kontonummer);
         System.out.println("Kontostand: " + kontostand);
         System.out.println("Kontoart: " + kontoart);
+        System.out.println("================================");
     }
 
-    public void kontoAnlegen() {
-        System.out.println("Konto angelegt.");
-    }
 
     public void kontoAufloesen() {
         System.out.println("Konto aufgelöst.");
