@@ -58,7 +58,7 @@ public class Main {
 
 ## Screenshots
 
-[![Screen Shot][product-screenshot]](A2_Kontoverwaltung\Screen1.png)
+![Screen Shot](A2_Kontoverwaltung/Screen1.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -67,4 +67,4 @@ public class Main {
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [java.com]: https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
 [java-url]: https://www.java.com/de/
-[product-screenshot]: Screen1.png
+[product-screenshot]: Screen.png
